@@ -2,9 +2,6 @@
 # coding: utf-8
 
 
-
-from math import *
-
 def addition(a,b):
     print('{} + {} = {}'.format(a,b,a+b))
 
