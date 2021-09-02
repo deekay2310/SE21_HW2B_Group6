@@ -5,3 +5,10 @@
   src="https://github.com/deekay2310/SE21_HW2B_Group6/blob/bb05816f23dafc5f81001ace12866d5c941c22e4/docs/calculator.png" alt="Let's calculate!"></a>
 </p>
 <hr>
+
+![MIT license](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub](https://img.shields.io/badge/Language-Python-blue.svg)
+<hr>
+
+# About Our Calculator
+<hr>
