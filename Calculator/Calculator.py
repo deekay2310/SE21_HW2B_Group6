@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-from math import log
+
 
 def addition(a,b):
     print('{} + {} = {}'.format(a,b,a+b))
