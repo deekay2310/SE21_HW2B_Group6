@@ -7,7 +7,7 @@
 <hr>
 
 ![MIT license](https://img.shields.io/badge/License-MIT-green.svg)
-![GitHub](https://img.shields.io/badge/Language-Python-blue.svg)<br>
+![GitHub](https://img.shields.io/badge/Language-Python-blue.svg)
 [![DOI](https://zenodo.org/badge/402163465.svg)](https://zenodo.org/badge/latestdoi/402163465)
 <hr>
 
