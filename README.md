@@ -8,7 +8,7 @@
 
 ![MIT license](https://img.shields.io/badge/License-MIT-green.svg)
 ![GitHub](https://img.shields.io/badge/Language-Python-blue.svg)<br>
-Cite the Code: [![DOI](https://zenodo.org/badge/402163465.svg)](https://zenodo.org/badge/latestdoi/402163465)
+[![DOI](https://zenodo.org/badge/402163465.svg)](https://zenodo.org/badge/latestdoi/402163465)
 <hr>
 
 # About Our Calculator
