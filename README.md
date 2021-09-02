@@ -11,5 +11,12 @@
 [![DOI](https://zenodo.org/badge/402163465.svg)](https://zenodo.org/badge/latestdoi/402163465)
 <hr>
 
-# About Our Calculator
-<hr>
+## About Our Calculator
+- We present to you a basic mathematical calculator that has been designed to perform simple mathematical operations.
+- This calculator can be utilised in order to perform the following operations:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Finding the nth root
+6. Calculating logarithm
