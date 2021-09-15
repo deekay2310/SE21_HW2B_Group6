@@ -1,7 +1,7 @@
-import sys
+#import sys
 import pytest
-sys.path.append("../Calculator")
-from Calculator import addition, subtraction, multiplication, division
+#sys.path.append("../Calculator")
+from Calculator.Calculator import addition, subtraction, multiplication, division
 
 def test_addition():
     assert addition(3,4) == 7.0
