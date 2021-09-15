@@ -10,6 +10,7 @@
 ![GitHub](https://img.shields.io/badge/Language-Python-blue.svg)
 [![DOI](https://zenodo.org/badge/402163465.svg)](https://zenodo.org/badge/latestdoi/402163465)
 ![GitHub contributors](https://img.shields.io/github/contributors/deekay2310/SE21_HW2B_Group6)
+[![Build Status](https://app.travis-ci.com/deekay2310/SE21_HW2B_Group6.svg?branch=main)](https://app.travis-ci.com/deekay2310/SE21_HW2B_Group6)
 <hr>
 
 ## About Our Calculator
