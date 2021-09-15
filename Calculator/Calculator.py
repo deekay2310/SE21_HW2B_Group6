@@ -23,7 +23,8 @@ def nth_power(a,n):
     return a**n
 
 def logarithms(a,base):
-          print('log({}) with base {} = {}'.format(a,base,math.log(a,base)))
+    print('log({}) with base {} = {}'.format(a,base,math.log(a,base)))
+    return math.log(a,base)
 
 
 # def calculator():
