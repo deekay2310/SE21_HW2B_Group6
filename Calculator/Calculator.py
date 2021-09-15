@@ -21,7 +21,7 @@ def division(a,b):
 
 def nth_root(a,n):
     print('root({}) to the power {} = {}'.format(a,n,a**n))
-    return float(a)^(1.0/float(n))
+    return a**(1.0/n)
 
 def logarithms(a,base):
           print('log({}) with base {} = {}'.format(a,base,log(a,base)))
