@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-
+import math
 
 def addition(a,b):
     print('{} + {} = {}'.format(a,b,a+b))
@@ -24,7 +23,7 @@ def nth_power(a,n):
     return a**n
 
 def logarithms(a,base):
-          print('log({}) with base {} = {}'.format(a,base,log(a,base)))
+          print('log({}) with base {} = {}'.format(a,base,math.log(a,base)))
 
 
 # def calculator():
