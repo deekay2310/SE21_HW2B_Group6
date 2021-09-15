@@ -1,4 +1,5 @@
 import sys
+import pytest
 sys.path.append("../Calculator")
 from Calculator import nth_root, logarithm
 
@@ -8,5 +9,5 @@ def test_nth_root():
 def test_logarithm():
     assert logarithm(2,2) == 1.0
 
-test_nth_root() 
-test_logarithm()
+#test_nth_root() 
+#test_logarithm()
