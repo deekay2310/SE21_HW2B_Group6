@@ -28,7 +28,7 @@ def logarithms(a,base):
 
 
 # def calculator():
-#     option = int(input("Enter the type of operation to be performed:\n 1. Addition \n 2. Subtraction \n 3. Multiplication \n 4. Division \n 5. Nth root \n 6. Logarithm \n"))
+#     option = int(input("Enter the type of operation to be performed:\n 1. Addition \n 2. Subtraction \n 3. Multiplication \n 4. Division \n 5. Nth power \n 6. Logarithm \n"))
     
 #     if(option in (1,2,3,4)):
 #           print("Enter two numbers:\n")
