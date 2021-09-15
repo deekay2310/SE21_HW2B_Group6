@@ -15,7 +15,7 @@ def test_multiplication():
 def test_division():
     assert division(3,4) == 0.75
     
-test_addition()
-test_subtraction()
-test_multiplication()
-test_division()
+#test_addition()
+#test_subtraction()
+#test_multiplication()
+#test_division()
