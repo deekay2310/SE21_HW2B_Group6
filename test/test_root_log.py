@@ -1,7 +1,7 @@
-import sys
+#import sys
 import pytest
-sys.path.append("../Calculator")
-from Calculator import nth_root, logarithm
+#sys.path.append("../Calculator")
+from Calculator.Calculator import nth_root, logarithms
 
 def test_nth_root():
     assert nth_root(3,2) == 9.0
