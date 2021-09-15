@@ -46,7 +46,7 @@ def logarithms(a,base):
 #         print("Enter the number and it's power/exponent:\n")
 #         a=float(input("Enter the number:"))
 #         n=float(input("\nEnter the power/exponent value:"))
-#         nth_root(a,n)
+#         nth_power(a,n)
         
 #     elif(option==6):
 #         print("Enter the number and it's base:\n")
