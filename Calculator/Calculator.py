@@ -19,9 +19,9 @@ def division(a,b):
     print('{} / {} = {}'.format(a,b,a/b))
     return a/b
 
-def nth_root(a,n):
-    print('root({}) to the power {} = {}'.format(a,n,a**n))
-    return a**(1.0/n)
+def nth_power(a,n):
+    print('({}) to the power {} = {}'.format(a,n,a**n))
+    return a**n
 
 def logarithms(a,base):
           print('log({}) with base {} = {}'.format(a,base,log(a,base)))
