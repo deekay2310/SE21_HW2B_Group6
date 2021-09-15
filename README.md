@@ -20,5 +20,5 @@
 2. Subtraction
 3. Multiplication
 4. Division
-5. Finding the nth root
+5. Finding the nth power of a number
 6. Calculating logarithm
